@@ -1,5 +1,5 @@
 {
-    "name": "gloatingcord26/basic-lib",
+    "name": "gloatingcord26/skeleton",
     "autoload": {
         "psr-4": {
             "GloatingCord26\\": "src/"
