@@ -13,9 +13,9 @@ final class OutputTest extends TestCase
 {
     public function testExpectWordActualWord(): void
     {
-        $this->expectOutputString('hello world');
+        $this->expectOutputString('Hello world');
 
         $incomingString = new Example();
-        echo $incomingString->example();
+        echo $incomingString->Example();
     }
 }

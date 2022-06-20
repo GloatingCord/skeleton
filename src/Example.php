@@ -6,6 +6,6 @@ class Example
 {
     public function example(): string
     {
-        return 'hello world';
+        return 'Hello world';
     }
 }
