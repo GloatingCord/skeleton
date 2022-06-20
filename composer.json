@@ -1,5 +1,6 @@
 {
     "name": "gloatingcord26/skeleton",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "GloatingCord26\\": "src/"
